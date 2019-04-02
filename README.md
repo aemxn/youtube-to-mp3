@@ -1,4 +1,6 @@
-# Youtube to MP3
+# Youtube to MP3 Ripper
+
+![screenshot v0.1](https://i.imgur.com/yZ9i2B5.jpg)
 
 This program was built using [PAGE][4] based on the idea of [ripping][3] Youtube video to Mp3 audio file.
 
@@ -15,7 +17,7 @@ Put all files in the same path as `youtubedl.py`
 2. Read its instructions on how to use, you might need to install Tcl/Tk 8.6 or greater
 3. Open `youtubedl.tcl` file
 
-### Creating an exe file
+### Creating an exe file (for Windows)
 
 ```
 pyinstaller -F -w youtubedl.py
