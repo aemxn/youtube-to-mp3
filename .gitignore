@@ -1,0 +1,6 @@
+/build
+/dist
+/__pycache__
+youtube-dl.exe
+ffmpeg.exe
+ffprobe.exe
