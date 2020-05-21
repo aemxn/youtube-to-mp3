@@ -2,7 +2,7 @@
 
 ![screenshot v0.1](https://i.imgur.com/yZ9i2B5.jpg)
 
-This program was built using [PAGE][4] based on the idea of [ripping][3] Youtube video to an Mp3 audio file set to the highest quality.
+This program was built using [PAGE][4] based on the idea of ripping Youtube video to an Mp3 audio file set to the highest quality.
 
 ### Required Files
 
@@ -38,10 +38,9 @@ pyinstaller -F -w youtubedl.py
 
 --- 
 
-Aiman Baharum (2019)
+Aiman (2020)
 
 [1]: https://github.com/rg3/youtube-dl/releases
 [2]: https://ffbinaries.com/downloads
-[3]: https://blog.aimanbaharum.com/2017/12/12/ripping-youtube-videos-to-mp3-using-command-prompt/
 [4]: http://page.sourceforge.net/
 [5]: https://www.activestate.com/products/activetcl/downloads/

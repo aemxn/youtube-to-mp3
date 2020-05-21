@@ -107,7 +107,7 @@ proc vTclWindow.top42 {base} {
         -background {#d9d9d9} -disabledforeground {#a3a3a3} \
         -font TkDefaultFont -foreground {#545454} \
         -highlightbackground {#d9d9d9} -highlightcolor black \
-        -text {Contact: t.me/aimandotb} 
+        -text {Contact: t.me/bisjutjopi} 
     vTcl:DefineAlias "$site_3_0.lab48" "label_1_contact" vTcl:WidgetProc "Toplevel1" 1
     label $site_3_0.lab49 \
         -activebackground {#f9f9f9} -activeforeground black \

@@ -122,7 +122,7 @@ class Toplevel1:
         self.label_1_contact.configure(foreground="#545454")
         self.label_1_contact.configure(highlightbackground="#d9d9d9")
         self.label_1_contact.configure(highlightcolor="black")
-        self.label_1_contact.configure(text='''Contact: t.me/aimandotb''')
+        self.label_1_contact.configure(text='''Contact: t.me/bisjutjopi''')
 
         self.label_3_version = tk.Label(self.Frame1)
         self.label_3_version.place(relx=0.035, rely=0.69, height=21, width=27)
